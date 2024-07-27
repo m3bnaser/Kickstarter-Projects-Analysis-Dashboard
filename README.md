@@ -88,5 +88,5 @@ The data used in this dashboard is sourced from [Kaggle's Kickstarter Projects d
 3. **Updating Data:**
    - To update the data, replace the dataset in Power BI with the latest version from Kaggle, ensuring that the data schema remains consistent 🔄.
 
-Mohamed Abdelnaser
-[Linkedin](https://www.linkedin.com/in/3bnaser01/)
+- Mohamed Abdelnaser
+- [Linkedin](https://www.linkedin.com/in/3bnaser01/)
