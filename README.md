@@ -88,4 +88,5 @@ The data used in this dashboard is sourced from [Kaggle's Kickstarter Projects d
 3. **Updating Data:**
    - To update the data, replace the dataset in Power BI with the latest version from Kaggle, ensuring that the data schema remains consistent 🔄.
 
-This README provides an overview of the Kickstarter Projects Analysis Dashboard, detailing its components, insights, and usage. By leveraging this dashboard, users can gain valuable insights into the dynamics of Kickstarter campaigns, helping to inform strategies for future projects.
+Mohamed Abdelnaser
+[Linkedin](https://www.linkedin.com/in/3bnaser01/)
